@@ -6,11 +6,11 @@ Requires at least: 2.9.2
 Tested up to: 3.5.1
 Stable tag: 1.0
 
-iContact, InfusionSoft, Custom From Popup
+By this plugins you can override the default look and feel (stylesheet/css) of iContact and InfusionSoft web form, also you can display them in your page/post as button using shortcode.
 
 == Description ==
 
-By this plugins you can override the default look and feel (css) of iContact and InfusionSoft web form also you can display them in your page/post as button using shortcode.
+By this plugins you can override the default look and feel (stylesheet/css) of iContact and InfusionSoft web form, also you can display them in your page/post as button using shortcode.
 
 = Key Feature =
 
