@@ -1,7 +1,7 @@
 === iContact, InfusionSoft form Popup ===
 Contributors: cybernetikz
 Donate link: 
-Tags: icontact,infusionsoft,infusion,popup,form popup,popup form,icontact popup,infusionsoft popup
+Tags: icontactPopup,infusionsoftPopup,icontact,infusionsoft,infusion,popup,form popup,popup form,icontact popup,infusionsoft popup
 Requires at least: 2.9.2
 Tested up to: 3.5.1
 Stable tag: 1.0
@@ -26,7 +26,7 @@ Please visit our site <a href="http://www.cybernetikz.com/">www.cybernetikz.com/
 == Installation ==
 
 1. Download the plugins and extract the files
-2. Upload "cn-form-popup" to your wp-content/plugins/ directory
+2. Upload "icontact-infusionsoft-from-popup" to your wp-content/plugins/ directory
 3. Activate the plugins through the 'Plugins' menu in Wordpress
 4. Check the "Form Popup" Tab created by this plugins
 5. After create a from copy paste the shortcode to page/post to display them as button

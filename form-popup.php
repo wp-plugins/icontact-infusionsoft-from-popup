@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: iContact, InfusionSoft From Popup
+Plugin Name: iContact, InfusionSoft Form Popup
 Plugin URI: http://www.cybernetikz.com
-Description: iContact, InfusionSoft, Custom From Popup
+Description: iContact, InfusionSoft, Custom Form Popup
 Version: 1.0
 Author: cybernetikz
 Author URI: http://www.cybernetikz.com
@@ -13,7 +13,7 @@ if (!defined('ABSPATH')) die('ERROR');
 
 include('simple_html_dom.php');
 
-$pluginsURI = plugins_url('/cn-form-popup/');
+$pluginsURI = plugins_url('/icontact-infusionsoft-from-popup/');
 function wfs_my_script() {
 	global $pluginsURI;
 	wp_enqueue_script( 'jquery' );	
@@ -28,7 +28,7 @@ add_action('init', 'wfs_my_script');
 add_action('admin_menu', 'wfs_add_menu_pages');
 
 function wfs_add_menu_pages() {
-	add_menu_page('From Popup', 'From Popup', 'manage_options', 'wfs_form_shortcode_page', 'wfs_form_shortcode_page_fn',plugins_url('/images/scc-sc.gif', __FILE__) );
+	add_menu_page('Form Popup', 'Form Popup', 'manage_options', 'wfs_form_shortcode_page', 'wfs_form_shortcode_page_fn',plugins_url('/images/scc-sc.gif', __FILE__) );
 }
 
 function wfs_create_table() {
