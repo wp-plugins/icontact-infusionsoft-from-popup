@@ -10,6 +10,8 @@ By this plugins you can override the default look and feel (stylesheet/css) of i
 
 == Description ==
 
+<strong>If you need paid support to get this plugin installed or to have a customized version of the plugin please send us an email to this address <a href="mailto:contact@cybernetikz.com">contact@cybernetikz.com</a></strong>.
+
 By this plugins you can override the default look and feel (stylesheet/css) of iContact and InfusionSoft web form, also you can display them in your page/post as button using shortcode.
 
 = Key Feature =
