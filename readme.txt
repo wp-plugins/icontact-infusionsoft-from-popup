@@ -3,16 +3,28 @@ Contributors: cybernetikz
 Donate link: 
 Tags: icontactPopup,infusionsoftPopup,icontact,infusionsoft,infusion,popup,form popup,popup form,icontact popup,infusionsoft popup
 Requires at least: 2.9.2
-Tested up to: 3.5.1
+Tested up to: 3.9.1
 Stable tag: 1.0
 
 By this plugins you can override the default look and feel (stylesheet/css) of iContact and InfusionSoft web form.
 
 == Description ==
 
-<strong>If you need paid support to get this plugin installed or to have a customized version of the plugin please send us an email to this address <a href="mailto:contact@cybernetikz.com">contact@cybernetikz.com</a></strong>.
-
 By this plugins you can override the default look and feel (stylesheet/css) of iContact and InfusionSoft web form, also you can display them in your page/post as button using shortcode.
+
+> <strong>PAID SUPPORT ($30/Hr, We ACCEPT PAYPAL )</strong>
+>
+> We assume most of the users would find it easy to install & use this plugin but those who needs support on any of the following:
+>
+> <strong>a. Get the plugin installed </strong>
+>
+> <strong>b. Custom feature, custom theme </strong>
+>
+> <strong>c. Auditing your wordpress theme & hosting environment</strong>
+>
+> <strong>d. Google analytics & webmaster tools</strong>
+>
+> please send an email to this address <a href="mailto:support@cybernetikz.com">support@cybernetikz.com</a>
 
 = Key Feature =
 
